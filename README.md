@@ -4,6 +4,8 @@ Ce menu de triche « Dominator » comporte des fonctionnalités telles que le d�
 
 
 
+![image](https://github.com/heyilljas7/WarzoneExternalCheat/assets/170230554/fe430c67-6d11-4bdb-80cd-7e947a7abd9c)
+
 
 ## Fonctionnalités du menu de triche :
 - Anti-triche Ricochet entièrement contourné
